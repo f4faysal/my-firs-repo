@@ -12,6 +12,6 @@ Branch creat
 ### `git config --global --unset http.proxy `
 
 ### `git push --set-upstream origin apu `
-### git checkout main  `
+### `git checkout main  `
 
 ### `git pull --rebase origin apu`
